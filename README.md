@@ -15,7 +15,7 @@ Connect the LED strips by 3 wires:
   - +5v -> 5v
   - DO  -> D6
   
-Connect the GY-85 Sensor by 4 wire:
+Connect the GY-85 Sensor by 4 wires:
   - SDA -> D2
   - SCL -> D1
   - GND -> GND
