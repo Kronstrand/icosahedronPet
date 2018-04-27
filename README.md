@@ -20,6 +20,8 @@ Connect the GY-85 Sensor by 4 wire:
   - SCL -> D1
   - GND -> GND
   - VCC_IN -> 3V3
+  
+![](Tutorial_Images/internalPet.png?raw=true)
 
 Download appropriate drivers/lib
 
@@ -27,6 +29,10 @@ Download and then upload the source code to your arduino.
 
 Cut out the icosahedron using the included svg file on a laser cutter and glue it together with a glue gun.
 
+![](Tutorial_Images/icosahedron.png?raw=true?raw=true)
+
 Put your assempled arduino into your cardboard icosahedron.
 
 You pet should now be ready for play.
+
+![](Tutorial_Images/holdingPet.png?raw=true?raw=true?raw=true)
